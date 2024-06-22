@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhishek M</h1>
 <h3 align="center">A Passionate Data Scientist from India</h3>
 
+![68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f646174612d736369656e63652d322e676966](https://github.com/abhishk0403/abhishk0403/assets/140788396/73600680-3175-4277-979c-e3833f0b46df)
+
+
 - I am a passionate data science enthusiast currently pursuing a course in data science at Great Learning.
    
 - My goal is to leverage data-driven insights to solve real-world problems and make meaningful contributions to the field.
@@ -11,7 +14,8 @@
   
 - 🌱 I’m interested in: Exploring new technologies and tools in the field of data science.
 
-- 💬 Ask me about **Python SQL Tableau Machine Learning**
+- 💬 Ask me about **Python SQL Tableau Machine Learning**                                                                               
+
 
 - 📫 How to reach me **abhishekmkm0403@gmail.com**  | **https://www.linkedin.com/in/abhishekmkm/**
 
