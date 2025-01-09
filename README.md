@@ -20,7 +20,7 @@
 - 💬 Ask me about **Python SQL Tableau Machine Learning**                                                                               
 
 
-- 📫 How to reach me **abhishekmkm0403@gmail.com**  | **https://www.linkedin.com/in/abhishekmkm/**
+- 📫 How to reach me **abhishekmkm0403@gmail.com**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
